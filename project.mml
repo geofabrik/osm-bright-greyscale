@@ -4,8 +4,8 @@
       "Datasource": {
         "dbname": "osm", 
         "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
-        "file": "http://data.openstreetmapdata.com/simplified-land-polygons-complete-3857.zip", 
-        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+        "file": "shp/simplified-land-polygons-complete-3857/simplified_land_polygons.shp", 
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
         "type": "shape"
       }, 
       "class": "shp", 
@@ -18,7 +18,7 @@
     }, 
     {
       "Datasource": {
-        "file": "http://data.openstreetmapdata.com/land-polygons-split-3857.zip",
+        "file": "shp/land-polygons-split-3857/land_polygons.shp", 
         "type": "shape"
       }, 
       "class": "shp", 
@@ -26,13 +26,13 @@
       "id": "land-high", 
       "name": "land-high", 
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
-      "srs-name": "900913",
+      "srs-name": "900913", 
       "status": "on"
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "landuse_gen0", 
         "key_field": "", 
@@ -51,8 +51,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "landuse_gen1", 
         "key_field": "", 
@@ -71,8 +71,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "landuse", 
         "key_field": "", 
@@ -91,8 +91,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "waterway", 
         "key_field": "", 
@@ -111,8 +111,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "key_field": "", 
         "table": "( SELECT way, waterway AS type\n  FROM planet_osm_line\n  WHERE waterway IN ('river', 'canal', 'stream')\n) AS data", 
@@ -127,8 +127,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "key_field": "", 
         "table": "( SELECT way, waterway AS type\n  FROM planet_osm_line\n  WHERE waterway IN ('river', 'canal', 'stream', 'ditch', 'drain')\n) AS data", 
@@ -143,8 +143,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "water_gen0", 
         "key_field": "", 
@@ -163,8 +163,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "water_gen1", 
         "key_field": "", 
@@ -183,8 +183,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "water", 
         "key_field": "", 
@@ -203,8 +203,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "landuse_overlays", 
         "key_field": "", 
@@ -222,8 +222,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "admin", 
         "key_field": "", 
@@ -240,8 +240,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "key_field": "", 
         "table": "( SELECT way, \"building\" AS type\n  FROM planet_osm_polygon\n  WHERE building NOT IN ('', '0','false', 'no')\n  ORDER BY ST_YMin(ST_Envelope(way)) DESC\n) AS data", 
@@ -256,8 +256,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "aeroway", 
         "key_field": "", 
@@ -276,8 +276,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "tunnel", 
         "key_field": "", 
@@ -295,8 +295,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "turning_circle_case", 
         "key_field": "", 
@@ -314,8 +314,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "roads_high", 
         "key_field": "", 
@@ -333,8 +333,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "key_field": "", 
         "table": "( SELECT way, highway AS type\n  FROM planet_osm_roads\n  WHERE highway IN ('motorway', 'trunk', 'primary', 'secondary', 'motorway_link', 'trunk_link')\n) AS data", 
@@ -349,8 +349,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "key_field": "", 
         "table": "( SELECT way, highway AS type, bridge, tunnel\n    FROM planet_osm_roads\n    WHERE highway IN ('motorway', 'trunk')\n) AS data", 
@@ -366,8 +366,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "key_field": "", 
         "table": "( SELECT way \n  FROM planet_osm_point\n  WHERE highway = 'turning_circle'\n) AS data", 
@@ -382,8 +382,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "bridge", 
         "key_field": "", 
@@ -404,8 +404,8 @@
       "Datasource": {
         "dbname": "osm", 
         "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-populated-places-simple.zip",
-        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+        "file": "shp/ne_10m_populated_places.shp", 
+        "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
         "type": "shape"
       }, 
       "class": "", 
@@ -417,14 +417,14 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "place", 
         "key_field": "", 
         "project": "foss4g-2011", 
         "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
-        "table": "( SELECT way, place AS type, name, z_order, population\n  FROM planet_osm_point\n  WHERE place in ('country', 'state', 'city', 'town', 'village', 'hamlet', 'suburb', 'neighbourhood', 'locality')\n  ORDER BY population DESC NULLS LAST\n) AS data", 
+        "table": "( SELECT way, place AS type, name, tags->'population'\n  FROM planet_osm_point\n  WHERE place in ('country', 'state', 'city', 'town', 'village', 'hamlet', 'suburb', 'neighbourhood', 'locality')\n  ORDER BY tags->'population' DESC NULLS LAST\n) AS data", 
         "type": "postgis"
       }, 
       "class": "", 
@@ -437,8 +437,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "landuse_label", 
         "key_field": "", 
@@ -457,8 +457,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "motorway_label", 
         "key_field": "", 
@@ -477,8 +477,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "mainroad_label", 
         "key_field": "", 
@@ -497,8 +497,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "minorroad_label", 
         "key_field": "", 
@@ -517,8 +517,8 @@
     }, 
     {
       "Datasource": {
-        "dbname": "osm", 
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34", 
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
         "geometry_field": "way", 
         "id": "waterway_label", 
         "key_field": "", 
@@ -534,29 +534,29 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
       "srs-name": "900913", 
       "status": "on"
-    },
+    }, 
     {
-      "geometry": "point",
-      "extent": [
-        -122.85990918289764,
-        47.38001179491598,
-        -121.86970418303555,
-        47.842970094896586
-      ],
       "Datasource": {
-        "type": "postgis",
-        "table": "( SELECT way, railway AS type, name, z_order \n  FROM planet_osm_point \n  WHERE railway = 'station'\n  ORDER BY z_order NULLS LAST\n) AS DATA \n",
-        "key_field": "",
-        "geometry_field": "way",
-        "extent": "-20037508.34 -20037508.34 20037508.34 20037508.34",
-        "dbname": "osm"
-      },
-      "id": "train_stations",
-      "class": "",
-      "srs-name": "900913",
-      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
-      "advanced": {},
-      "name": "train_stations"
+        "dbname": "gis", 
+        "extent": "-20037508.34,-20037508.34,20037508.34,20037508.34", 
+        "geometry_field": "way", 
+        "key_field": "", 
+        "table": "( SELECT way, railway AS type, name\n  FROM planet_osm_point \n  WHERE railway = 'station'\n) AS DATA \n", 
+        "type": "postgis"
+      }, 
+      "advanced": {}, 
+      "class": "", 
+      "extent": [
+        -122.85990918289764, 
+        47.38001179491598, 
+        -121.86970418303555, 
+        47.842970094896586
+      ], 
+      "geometry": "point", 
+      "id": "train_stations", 
+      "name": "train_stations", 
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over", 
+      "srs-name": "900913"
     }
   ], 
   "Stylesheet": [
@@ -565,7 +565,7 @@
     "roads.mss", 
     "labels.mss"
   ], 
-  "attribution": "Data \u00a9 OpenStreetMap (and) contributors, ODbL",
+  "attribution": "Data \u00a9 OpenStreetMap (and) contributors, ODbL", 
   "bounds": [
     -180, 
     -85.0511, 
