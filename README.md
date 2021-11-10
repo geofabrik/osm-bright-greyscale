@@ -12,6 +12,8 @@ Versions will be tagged with the [osm-carto](https://github.com/gravitystorm/ope
 
 	./scripts/get-shapefiles.sh
 
+Optionally pass `--dry-run` to not perform anything, merely print out what would be done.
+
 ### OpenStreetMap data
 
 Follow [openstreetmap-carto installation instructions](https://github.com/gravitystorm/openstreetmap-carto/blob/master/INSTALL.md#openstreetmap-data)
