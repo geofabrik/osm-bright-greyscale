@@ -2,9 +2,9 @@
 
 ![screenshot](./preview.png)
 
-OSM Bright is a sensible starting point for quickly making beautiful maps based
-on an OpenStreetMap database. It is written in the [Carto](https://github.com/kosmtik/kosmtik) styling language
-and can be opened as a project in [Kosmtik](https://github.com/kosmtik/kosmtik)
+OSM Bright is a sensible starting point for quickly making beautiful maps based on an OpenStreetMap database. It is written in the [Carto](https://github.com/kosmtik/kosmtik) styling language and can be opened as a project in [Kosmtik](https://github.com/kosmtik/kosmtik)
+
+Versions will be tagged with the [osm-carto](https://github.com/gravitystorm/openstreetmap-carto) version that is supported.
 
 ## Installation
 
