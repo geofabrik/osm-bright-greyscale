@@ -34,6 +34,10 @@ Use the `makebw.pl` script to convert to grey scale:
 	for F in *.mss ; do ./makebw.pl <$F | sponge $F ; done
 	for F in **/*.svg ; do ./makebw.pl <$F | sponge $F ; done
 
+Convert all images with:
+
+	for F in **/*.png ; do gm mogrify -colorspace gray $F ; done
+
 ## History
 
 This style was originally developed by [Mapbox](https://github.com/mapbox/osm-bright) between 2012 → 2016.
