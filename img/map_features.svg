@@ -20,7 +20,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#656565"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -89,7 +89,7 @@
          inkscape:connector-curvature="0"
          id="rect7723"
          d="m 219.375,373.36218 c -0.1162,0 -0.22631,0.14316 -0.28125,0.29407 l -0.625,1.71875 -2.96875,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 2.59375,0 -0.34375,1 -2.25,0 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 l 1.875,0 -0.34375,0.9375 c -0.10988,0.30181 0.024,0.7115 0.25,0.9375 0.0652,0.0652 0.20812,0.11218 0.30804,0.11218 0.13469,0 0.25381,-0.095 0.31696,-0.26843 l 0.625,-1.71875 2.96875,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2.59375,0 0.34375,-1 2.25,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.875,0 0.34375,-0.9375 c 0.10988,-0.30181 -0.0143,-0.72164 -0.25,-0.9375 -0.11788,-0.10793 -0.21877,-0.13782 -0.34375,-0.13782 z"
-         style="color:#000000;fill:#615952;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        id="roadblock2"
@@ -113,7 +113,7 @@
          inkscape:connector-curvature="0"
          id="path7731"
          d="m 228.5,373.36218 c -1.93299,0 -3.5,1.56701 -3.5,3.5 0,1.93299 1.56701,3.5 3.5,3.5 1.93299,0 3.5,-1.56701 3.5,-3.5 0,-1.93299 -1.56701,-3.5 -3.5,-3.5 z m -2,3 4,0 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 l -4,0 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z"
-         style="color:#000000;fill:#615952;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        id="roadblock3"
@@ -138,7 +138,7 @@
          inkscape:connector-curvature="0"
          id="rect5296"
          d="m 235,373.36218 c -0.554,0 -1,0.446 -1,1 l 0,7 3,0 0,-6 6.5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6.5,0 c 0,-0.554 -0.446,-1 -1,-1 z"
-         style="color:#000000;fill:#615952;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:nodetypes="sccccssscss" />
     </g>
   </g>

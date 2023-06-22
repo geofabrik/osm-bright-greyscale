@@ -20,7 +20,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#656565"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -75,10 +75,10 @@
        height="11"
        width="24"
        id="shield-trunk-3"
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3763" />
     <rect
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-trunk-2"
        width="19.000015"
        height="11"
@@ -95,10 +95,10 @@
        height="11"
        width="14.000015"
        id="shield-trunk-1"
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3773" />
     <rect
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-trunk-4"
        width="29.000015"
        height="11"
@@ -115,10 +115,10 @@
        height="11"
        width="34.000015"
        id="shield-trunk-5"
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3777" />
     <rect
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-motorway-3"
        width="24"
        height="11"
@@ -128,13 +128,13 @@
        ry="1"
        inkscape:label="#rect3885" />
     <path
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 176.49998,435.86218 17.00002,0 c 0.554,0 1,0.446 1,1 l 0,9 c 0,0.554 -0.446,1 -1,1 l -17.00002,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-9 c 0,-0.554 0.446,-1 1,-1 z"
        id="shield-motorway-2"
        inkscape:connector-curvature="0"
        inkscape:label="#shield-small-light-2" />
     <rect
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-motorway-1"
        width="14.000015"
        height="11"
@@ -151,10 +151,10 @@
        height="11"
        width="29.000015"
        id="shield-motorway-4"
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3895" />
     <rect
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-motorway-5"
        width="34.000015"
        height="11"
@@ -164,7 +164,7 @@
        ry="1"
        inkscape:label="#rect3897" />
     <rect
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-trunk-6"
        width="39.000015"
        height="11"
@@ -181,7 +181,7 @@
        height="11"
        width="39.000015"
        id="shield-motorway-6"
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3969" />
     <text
        xml:space="preserve"
@@ -230,7 +230,7 @@
          sodipodi:role="line">Motorway</tspan></text>
     <rect
        inkscape:label="#rect3763"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-secondary-3"
        width="24"
        height="11"
@@ -247,10 +247,10 @@
        height="11"
        width="19.000015"
        id="shield-secondary-2"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        inkscape:label="#rect3773"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-secondary-1"
        width="14.000015"
        height="11"
@@ -267,10 +267,10 @@
        height="11"
        width="29.000015"
        id="shield-secondary-4"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        inkscape:label="#rect3777"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-secondary-5"
        width="34.000015"
        height="11"
@@ -287,11 +287,11 @@
        height="11"
        width="24"
        id="shield-primary-3"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        id="shield-primary-2"
        d="m 286.49998,435.86218 17.00002,0 c 0.554,0 1,0.446 1,1 l 0,9 c 0,0.554 -0.446,1 -1,1 l -17.00002,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-9 c 0,-0.554 0.446,-1 1,-1 z"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0"
        inkscape:label="#path4106" />
     <rect
@@ -303,10 +303,10 @@
        height="11"
        width="14.000015"
        id="shield-primary-1"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        inkscape:label="#rect3895"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-primary-4"
        width="29.000015"
        height="11"
@@ -323,7 +323,7 @@
        height="11"
        width="34.000015"
        id="shield-primary-5"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        inkscape:label="#rect3955"
        ry="1"
@@ -333,10 +333,10 @@
        height="11"
        width="39.000015"
        id="shield-secondary-6"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        inkscape:label="#rect3969"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-primary-6"
        width="39.000015"
        height="11"
@@ -346,7 +346,7 @@
        ry="1" />
     <rect
        inkscape:label="#rect3969"
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-motorway-7"
        width="44"
        height="11"
@@ -362,7 +362,7 @@
        height="11"
        width="49"
        id="shield-motorway-8"
-       style="color:#000000;fill:#e65c5c;fill-opacity:1;fill-rule:evenodd;stroke:#e65c5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3969" />
     <rect
        inkscape:label="#rect3955"
@@ -373,9 +373,9 @@
        height="11"
        width="44"
        id="shield-trunk-7"
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       style="color:#000000;fill:#e68a5c;fill-opacity:1;fill-rule:evenodd;stroke:#e68a5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-trunk-8"
        width="49"
        height="11"
@@ -392,11 +392,11 @@
        height="11"
        width="44"
        id="shield-primary-7"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:label="#rect3969" />
     <rect
        inkscape:label="#rect3969"
-       style="color:#000000;fill:#ffc859;fill-opacity:1;fill-rule:evenodd;stroke:#ffc859;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:#cbcbcb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-primary-8"
        width="49"
        height="11"
@@ -405,7 +405,7 @@
        rx="1"
        ry="1" />
     <rect
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="shield-secondary-7"
        width="44"
        height="11"
@@ -423,7 +423,7 @@
        height="11"
        width="49"
        id="shield-secondary-8"
-       style="color:#000000;fill:#ffe873;fill-opacity:1;fill-rule:evenodd;stroke:#ffe873;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#e1e1e1;fill-opacity:1;fill-rule:evenodd;stroke:#e1e1e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
